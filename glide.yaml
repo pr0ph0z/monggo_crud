@@ -1,0 +1,6 @@
+package: monggocrud
+import:
+- package: github.com/globalsign/mgo
+  subpackages:
+  - bson
+- package: gopkg.in/mgo.v2

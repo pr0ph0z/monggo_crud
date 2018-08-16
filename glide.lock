@@ -1,0 +1,10 @@
+hash: 17a9513f50bc2208ca8a9288950655c273d8e00befecddb894775d7573e37619
+updated: 2018-08-13T14:04:50.8723232+07:00
+imports:
+- name: github.com/globalsign/mgo
+  version: 113d3961e7311526535a1ef7042196563d442761
+  subpackages:
+  - bson
+- name: gopkg.in/mgo.v2
+  version: 9856a29383ce1c59f308dd1cf0363a79b5bef6b5
+testImports: []
